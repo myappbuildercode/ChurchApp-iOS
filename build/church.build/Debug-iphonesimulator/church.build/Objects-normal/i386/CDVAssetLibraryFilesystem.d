@@ -1,0 +1,25 @@
+dependencies: \
+  /Users/nuatransmedia/Church/platforms/ios/church/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.m \
+  /Users/nuatransmedia/Church/platforms/ios/church/Plugins/org.apache.cordova.file/CDVFile.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/CDVPlugin.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/CDVPluginResult.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/CDVAvailability.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/CDVAvailabilityDeprecated.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/NSMutableArray+QueueAdditions.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/CDVCommandDelegate.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/CDVInvokedUrlCommand.h \
+  /Users/nuatransmedia/Church/platforms/ios/church/Plugins/org.apache.cordova.file/CDVAssetLibraryFilesystem.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/CDV.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/CDVViewController.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/CDVCommandQueue.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/CDVWhitelist.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/CDVScreenOrientationDelegate.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/CDVURLProtocol.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/CDVDebug.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/CDVLocalStorage.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/CDVTimer.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/NSArray+Comparisons.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/NSData+Base64.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/NSDictionary+Extensions.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/UIDevice+Extensions.h \
+  /Users/nuatransmedia/Church/platforms/ios/build/emulator/include/Cordova/CDVJSON.h
